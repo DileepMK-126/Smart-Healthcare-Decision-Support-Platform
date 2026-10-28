@@ -1,6 +1,6 @@
-# CareAI — Clinical Intelligence & Care Locator Platform
+# Smart Healthcare Decision Support Platform
 
-**CareAI** is a modern, responsive clinical intelligence web application built with **React, Vite, TypeScript, TailwindCSS, FastAPI, and OpenStreetMap Leaflet**. It provides automated medical report parsing, AI-assisted medical imaging analysis, multi-lingual voice assistance, ASHA health worker triage, generic drug affordability estimation, and interactive hospital & diagnostic lab finding.
+**Smart Healthcare Decision Support Platform** is a modern, responsive clinical intelligence web application built with **React, Vite, TypeScript, TailwindCSS, FastAPI, and OpenStreetMap Leaflet**. It provides automated medical report parsing, AI-assisted medical imaging analysis, multi-lingual voice assistance, ASHA health worker triage, generic drug affordability estimation, and interactive hospital & diagnostic lab finding.
 
 ---
 
